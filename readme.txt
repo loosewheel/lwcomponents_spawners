@@ -46,6 +46,8 @@ Register spawners for lwcomponents for the following:
 * Mobs - all spawn eggs and 10% chance of chicken spawning when egg is thrown.
 * Projectiles - all projectiles.
 
+If these mods register their own spawners with lwcomponents they will be used instead.
+
 
 
 ------------------------------------------------------------------------
