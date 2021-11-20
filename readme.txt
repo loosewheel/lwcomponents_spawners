@@ -43,9 +43,8 @@ Description
 ===========
 Register spawners for lwcomponents for the following:
 
-*	Mobs - all spawn eggs and 10% chance of chicken spawning when egg is
-	thrown.
-*	Projectiles - all projectiles.
+* Mobs - all spawn eggs and 10% chance of chicken spawning when egg is thrown.
+* Projectiles - all projectiles.
 
 
 
