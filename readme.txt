@@ -26,6 +26,7 @@ lwcomponents
 Optional Dependencies
 =====================
 mobs
+projectile
 
 
 Installation
@@ -35,7 +36,7 @@ Copy the 'lwcomponents_spawners' folder to your mods folder.
 
 Bug Report
 ==========
-https://forum.minetest.net/viewtopic.php?f=9&t=27425
+https://forum.minetest.net/viewtopic.php?f=9&t=27507
 
 
 Description
