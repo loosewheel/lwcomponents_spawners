@@ -1,2 +1,0 @@
-# lwcomponents_spawners
-lwcomponents_spawners
