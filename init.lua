@@ -1,4 +1,4 @@
-local version = "0.1.0"
+local version = "0.1.1"
 
 
 
@@ -15,8 +15,8 @@ local utils = { }
 local modpath = minetest.get_modpath ("lwcomponents_spawners")
 
 loadfile (modpath.."/settings.lua") (utils)
-loadfile (modpath.."/mobs.lua") (utils)
-loadfile (modpath.."/projectile.lua") (utils)
+loadfile (modpath.."/mobs.lua") ()
+loadfile (modpath.."/projectile.lua") ()
 
 
 

@@ -1,6 +1,3 @@
-local utils = ...
-
-
 
 if minetest.global_exists ("projectile") then
 
@@ -63,9 +60,9 @@ local function register_spawner (ammo, catagory)
 end
 
 
-for weapon, def in pairs (projectile.registered_projectiles) do
-	for ammo, def in pairs (projectile.registered_projectiles[weapon]) do
-		if def then
+for weapon, wdef in pairs (projectile.registered_projectiles) do
+	for ammo, adef in pairs (projectile.registered_projectiles[weapon]) do
+		if adef then
 			register_spawner (ammo, weapon)
 		end
 	end

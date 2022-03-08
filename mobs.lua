@@ -1,6 +1,3 @@
-local utils = ...
-
-
 
 if minetest.global_exists ("mobs") then
 
